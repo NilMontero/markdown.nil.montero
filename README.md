@@ -43,8 +43,42 @@ def geni():
 ---
 
 ### Navegació
-[Anar a Experiència professional](#experiencia-professional)
 
-:tada: Un homenatge a la seva genialitat!
-
-### Localització amb GeoJson
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              10.93526092618319,
+              43.80027047525354
+            ],
+            [
+              10.93526092618319,
+              43.798009175145154
+            ],
+            [
+              10.941526906120856,
+              43.798009175145154
+            ],
+            [
+              10.941526906120856,
+              43.80027047525354
+            ],
+            [
+              10.93526092618319,
+              43.80027047525354
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
+  ]
+}
+```
