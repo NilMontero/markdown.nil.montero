@@ -23,7 +23,7 @@ Aquest document presenta el currículum de Leonardo da Vinci, un dels genis més
 
 [Biografia de Leonardo da Vinci](https://ca.wikipedia.org/wiki/Leonardo_da_Vinci)
 
-![Retrat de Leonardo da Vinci](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg/250px-Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg)
+![Retrat de Leonardo da Vinci](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH8iS1lLjRt9Qkl-NcJ1tUK2TJwbPkn29aDA&s)
 
 Codi en línia: `print("Genialitat eterna!")`
 
@@ -33,10 +33,10 @@ def geni():
     print("Leonardo da Vinci, un mestre del Renaixement!")
 ```
 
-| Nom         | Edat | Ciutat      |
-|------------|------|------------|
-| Leonardo   | 67   | Florència   |
-| Mecenes    | Diversos | Itàlia |
+| Idiomma    | Nivell |
+|------------|--------|
+|   Italia   |  Nadiu |
+|   Llati    |   B2   |
 
 > "L'aprenentatge mai esgota la ment." - Leonardo da Vinci
 
